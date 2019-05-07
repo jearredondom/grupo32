@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<content><![CDATA[<span class="title">PROBAMOS LA CONECTIVIDAD DE RED</span>
+<span class="subtitle">CONECTIVIDAD ENTRE MAQUINA BASE Y SEDE BOGOTA</span>
+<p align="justify">Por medio del comando ping, probamos la conectividad exitosa entre la PC Base y ACR-BOGOTA.</p>
+<p align="justify"><img src="thumbnails/conecta1.jpg" width="400" height="400"/></p>
+
+
+<span class="subtitle">Quisque in arcu et aCONECTIVIDAD ENTRE PC BASE Y ACR MEDELLIN</span>
+<p align="justify">Se evidencia la conectividad entre la PC Base y la ACR Medellin.</p>
+<img src="thumbnails/conecta2.jpg" width="400" height="400"/>
+
+
+<span class="subtitle">Quisque in arcu et aCONECTIVIDAD DESDE LAS SEDES</span>
+<p align="justify">Evidenciamos conectividad desde las sedes hacia la PC base.</p>
+<img src="thumbnails/conecta3.jpg" width="400" height="400"/>]]></content>
+
+	</item>
+</items>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<content><![CDATA[<span class="title">Herramientas a utilizar</span>
+<span class="subtitle">VIRTUAL BOX</span>
+<p align="justify">Para la simulación de sedes de ACR, estaremos uando el Virtual Box para la simulación de maquinas virtuales.</p>
+<p align="justify"><img src="thumbnails/vbox.jpg" width="400" height="400"/></p>
+
+
+<span class="subtitle">Quisque in arcu et aUBUNTU</span>
+<p align="justify">Instalaremos el sistema operativo ubuntu en las maquinas virtuales que simularan las sedes.</p>
+<img src="thumbnails/ubuntu.jpg" width="400" height="400"/>]]></content>
+
+	</item>
+</items>

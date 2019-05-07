@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<content><![CDATA[<span class="title">MAQUINAS VIRTUALES</span>
+<span class="subtitle">CREAMOS MAQUINAS</span>
+<p align="justify">En virtual Box, creamos 2 maquinas virtuales que simularan las sedes de ACR de Bogota y Medellin.</p>
+<p align="justify"><img src="thumbnails/virtuales.jpg" width="400" height="400"/></p>
+
+
+<span class="subtitle">Quisque in arcu et aCONFIGURACIÓN TARJETA DE RED</span>
+<p align="justify">Cinfiguramos la tarjeta de red en cada maquina virtual, en modo "Bridge", para que actuen como maquina fisica independiente en la red.</p>
+<img src="thumbnails/bridge.jpg" width="400" height="400"/>
+
+
+<span class="subtitle">Quisque in arcu et aINSTALACIÓN UBUNTU</span>
+<p align="justify">Instalamos el sistema operativo UBUNTU, en cada una de las maquinas virtuales.</p>
+<img src="thumbnails/ubuntuos.jpg" width="400" height="400"/>]]></content>
+
+	</item>
+</items>
