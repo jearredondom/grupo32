@@ -7,12 +7,12 @@
 <p align="justify"><img src="thumbnails/virtuales.jpg" width="400" height="400"/></p>
 
 
-<span class="subtitle">Quisque in arcu et aCONFIGURACIÓN TARJETA DE RED</span>
-<p align="justify">Cinfiguramos la tarjeta de red en cada maquina virtual, en modo "Bridge", para que actuen como maquina fisica independiente en la red.</p>
+<span class="subtitle">Quisque in arcu et a.CONFIGURACIÃ“N TARJETA DE RED</span>
+<p align="justify">Configuramos la tarjeta de red en cada maquina virtual, en modo "Bridge", para que actuen como maquina fisica independiente en la red.</p>
 <img src="thumbnails/bridge.jpg" width="400" height="400"/>
 
 
-<span class="subtitle">Quisque in arcu et aINSTALACIÓN UBUNTU</span>
+<span class="subtitle">Quisque in arcu et a.INSTALACIÃ“N UBUNTU</span>
 <p align="justify">Instalamos el sistema operativo UBUNTU, en cada una de las maquinas virtuales.</p>
 <img src="thumbnails/ubuntuos.jpg" width="400" height="400"/>]]></content>
 
