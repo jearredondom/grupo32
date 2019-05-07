@@ -7,13 +7,13 @@
 <p align="justify"><img src="thumbnails/cmd.jpg" width="400" height="400"/></p>
 
 
-<span class="subtitle">Quisque in arcu et aCONFIGURAMOS LAS MAQUINAS VIRTUALES</span>
-<p align="justify">Conociendo ya la configuración de red, pasamos entonces a confirgurar la maquina virtual de la sede ACR-Bogota, para integrarla a la red y brindarle direccionamiento IP.</p>
+<span class="subtitle">Quisque in arcu et a.CONFIGURAMOS LAS MAQUINAS VIRTUALES</span>
+<p align="justify">Conociendo ya la configuraciÃ³n de red, pasamos entonces a confirgurar la maquina virtual de la sede ACR-Bogota, para integrarla a la red y brindarle direccionamiento IP.</p>
 <p align="justify">Ingresamos al archivo de interfaces con  SUDO NANO /ETC/NETWORK/INTERFACES.</p>
 <img src="thumbnails/network.jpg" width="400" height="400"/>
-<p align="justify">..........................Configuramos el direccionamiento IP a la maquina y la otorgamos la dirección 192.168.0.4 .</p>
+<p align="justify">..........................Configuramos el direccionamiento IP a la maquina y la otorgamos la direcciÃ³n 192.168.0.4 .</p>
 <img src="thumbnails/ipconfig.jpg" width="400" height="400"/>
-<p align="justify">.........................Reliazamos la misma operación con la maquina ACR-Medellin y le otorgamos la ip 192.168.0.9.</p>]]></content>
+<p align="justify">..........................Reliazamos la misma operaciÃ³n con la maquina ACR-Medellin y le otorgamos la ip 192.168.0.9.</p>]]></content>
 
 	</item>
 </items>
